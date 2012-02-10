@@ -1,3 +1,4 @@
+Alias /media /home/user/python/django/contrib/admin/media
 RewriteEngine On
 AddHandler fcgid-script .fcgi
 RewriteCond %{REQUEST_FILENAME} !-f
