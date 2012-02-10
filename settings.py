@@ -10,10 +10,10 @@ ADMINS = (
 MANAGERS = ADMINS
 
 DATABASE_ENGINE = 'mysql'                 # 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-DATABASE_NAME = 'FLX_DB_NAME'             # Or path to database file if using sqlite3.
-DATABASE_USER = 'FLX_DB_USER'             # Not used with sqlite3.
-DATABASE_PASSWORD = 'FLX_DB_PASS'         # Not used with sqlite3.
-DATABASE_HOST = 'FLX_DB_HOST'             # Set to empty string for localhost. Not used with sqlite3.
+DATABASE_NAME = 'sandbox-imz9nv2k'             # Or path to database file if using sqlite3.
+DATABASE_USER = 'sandbox-imz9nv2k'             # Not used with sqlite3.
+DATABASE_PASSWORD = 'uXQM79mJl'         # Not used with sqlite3.
+DATABASE_HOST = 'sandbox-imz9nv2k.mysql.fluxflex.com'             # Set to empty string for localhost. Not used with sqlite3.
 DATABASE_PORT = '3306'                    # Set to empty string for default. Not used with sqlite3.
 
 # Local time zone for this installation. Choices can be found here:
